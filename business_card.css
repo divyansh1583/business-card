@@ -1,0 +1,23 @@
+body {
+    margin: 20px;
+    font-family: "Genos", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.card {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    width: 400px;
+    margin: 0 auto;
+    background-color: #ddebf8;
+    border-bottom: 5px solid #d8cefe;
+}
+
+.card_img {
+    width: 150px;
+}
+.card_details{
+    text-align: center;
+}
